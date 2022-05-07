@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[384],{4384:function(e,n,t){function i(){var e=function(){window.document.documentElement.style.setProperty("--vh",window.innerHeight/100+"px")};window.addEventListener("resize",e),e()}t.r(n),t.d(n,{setVhCssVariable:function(){return i}})}}]);

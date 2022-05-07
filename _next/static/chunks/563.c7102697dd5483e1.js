@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[563],{7563:function(A,n,e){function r(A){var n=new Image;n.onload=function(){return A(n.width>0&&n.height>0)},n.onerror=function(){return A(!1)},n.src="data:image/webp;base64,UklGRiIAAABXRUJQVlA4IBYAAAAwAQCdASoBAAEADsD+JaQAA3AAAAAA"}e.r(n),e.d(n,{checkWebp:function(){return r}})}}]);
